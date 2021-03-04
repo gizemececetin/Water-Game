@@ -1,6 +1,6 @@
 # watergame
 
-A new Flutter application.
+A game with Flutter and Flame engine.
 
 ## Getting Started
 
